@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amitosh singh
 - 👀 I’m interested in Full Stack Web development, Machine learning.
 - 🌱 I’m currently learning Btech Computer science Engineering.
-- 📫 How to reach me Connect with me on linkedin:/ @amitoshsingh
+- 📫 Connect with me on linkedin:/ @amitoshsingh
 
 <!---
 Amitosh21/Amitosh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
